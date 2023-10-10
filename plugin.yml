@@ -1,0 +1,6 @@
+name: LevelScore-zs
+version: 1.0.2
+api: 5.6.0
+author: ItsToxicGG, zsfell
+main: ItsToxicGG\LvlScore
+depend: [ScoreHud, LevelSystem]
